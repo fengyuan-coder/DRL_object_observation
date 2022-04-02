@@ -1,1 +1,0 @@
-# DRL_object_observation
